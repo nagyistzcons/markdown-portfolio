@@ -1,3 +1,4 @@
-- soccer
-- chess
-- programming
+* games
+  * soccer
+  * chess
+* programming
